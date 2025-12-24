@@ -50,11 +50,6 @@ Musify/
 
 ---
 
-🌐 Live Link
-🔗 https://jiit-himanshi.github.io/musify-music-player-ui/Musify/homePage/homepage.html
-
----
-
 ## 🚀 How to Run the Project
 1. Download or clone the repository  
 2. Open `signup/index.html` or `homepage/homepage.html` in your browser  
