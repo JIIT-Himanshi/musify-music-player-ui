@@ -1,7 +1,7 @@
 # 🎵 Musify - Web Player: Music for Everyone
 
 Welcome to **Musify**, your personal web music player! 🎧  
-Play your favorite songs, explore trending tracks, and create playlists—all in one place! 🚀
+Play your favorite songs, explore trending tracks, and create playlists—all in one place!
 
 ---
 
