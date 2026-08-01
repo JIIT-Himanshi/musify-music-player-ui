@@ -26,30 +26,6 @@ Play your favorite songs, explore trending tracks, and create playlists—all in
 
 ---
 
-## Project Structure
-
-Musify/
-│
-├─ homepage/
-│ ├─ homepage.html
-│ ├─ homepage.css
-│ ├─ homepage.js
-│ ├─ img1.jpeg, img2.jpeg
-│
-├─ playlist/
-│ ├─ playlist.html
-│ ├─ playlist.css
-│ ├─ pic1.jpeg … pic16.jpeg
-│
-├─ signup/
-│ ├─ index.html
-│ ├─ style.css
-│ ├─ musify-logo.png
-│
-└─ README.md
-
----
-
 ## How to Run the Project
 1. Download or clone the repository  
 2. Open `signup/index.html` or `homepage/homepage.html` in your browser  
