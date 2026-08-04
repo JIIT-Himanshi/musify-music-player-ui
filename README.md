@@ -20,7 +20,7 @@ Play your favorite songs, explore trending tracks, and create playlists—all in
 ## Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla) ⚡  
+- JavaScript (Vanilla)
 - Font Awesome Icons  
 - Google Fonts  
 
